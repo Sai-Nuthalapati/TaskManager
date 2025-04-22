@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 TaskManager API
 
 A Unix-inspired task management API built with Django and Django REST Framework. Mimics commands like `ls`, `fork`, `rm`, and `put` for managing tasks via RESTful endpoints.
@@ -140,3 +141,7 @@ TaskManager/
 ## 👨‍💻 Author
 
 Made with ☕ by Nuthalapati Sai Sethu
+=======
+# TaskManager
+Unix-inspired task management API
+>>>>>>> 61fc0d47b6f8c5fb6e2a24f8d45b4d107e121388
