@@ -44,7 +44,7 @@ Design decisions such as using Django REST Framework for its robustness and simp
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/TaskManager.git
+git clone https://github.com/Sai-Nuthalapati/TaskManager.git
 cd TaskManager
 python -m venv .venv
 .venv\Scripts\activate   # On Windows
