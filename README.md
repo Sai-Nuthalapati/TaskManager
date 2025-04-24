@@ -48,7 +48,6 @@ git clone https://github.com/Sai-Nuthalapati/TaskManager.git
 cd TaskManager
 python -m venv .venv
 .venv\Scripts\activate   # On Windows
-pip install -r requirements.txt
 ```
 
 ---
