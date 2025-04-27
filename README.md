@@ -1,23 +1,7 @@
 <<<<<<< HEAD
 # 🧠 TaskManager API
 
-A Unix-inspired task management API built with Django and Django REST Framework. Mimics commands like `ls`, `fork`, `rm`, and `put` for managing tasks via RESTful endpoints.
-
----
-
-## ✅ Deliverables
-
-### 1. Source Code
-All source code is hosted in this repository. If submitting for review, please make sure the GitHub (or GitLab/Bitbucket) link is shared and accessible.
-
-### 2. README Documentation
-This file includes setup instructions, API usage, testing, and design notes.
-
-### 3. Usage Examples
-See the [🔍 Example Usage with `curl`](#-example-usage-with-curl) section below for actual command-line examples with expected JSON payloads.
-
-### 4. Comments on Design Choices
-Design decisions such as using Django REST Framework for its robustness and simplicity, `generics` views for fast API creation, and SQLite for quick local testing are documented here and within code comments.
+A Unix-inspired task management API built with Django and Django REST Framework. Mimics commands like `ls`, `fork`, `rm`, and `put` for managing tasks via RESTful endpoints. 
 
 ---
 
